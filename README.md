@@ -1,6 +1,6 @@
 # Hi there, I'm Dong Luanjie 👋
 
-I'm a tech undergraduate at Singapore Management University (SMU) actively participating in hackathons and personal projects. With a strong foundation in data analysis, software development, and artificial intelligence, I am passionate about leveraging technology for innovative solutions.
+I'm a tech undergraduate at Singapore Management University (SMU) actively participating in hackathons and personal projects. With experience in data analysis, software development, and artificial intelligence, I am passionate about leveraging technology for innovative solutions.
 
 ## Skills
 
