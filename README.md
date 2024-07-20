@@ -4,7 +4,7 @@ I'm a tech undergraduate at Singapore Management University (SMU) actively parti
 
 ## Skills
 
-- **Programming Languages**: Python, R, SQL, PHP, HTML, CSS, JavaScript
+- **Programming Languages**: Python, R, SQL, PHP, HTML
 - **Tools & Technologies**: GitHub, Tableau, Jupyter Notebooks, RStudio, Visual Studio, MySQL, BigQuery
 - **Soft Skills**: Problem-solving, Teamwork, Communication, Time management, Presentation
 - **Web Development**: API calls
