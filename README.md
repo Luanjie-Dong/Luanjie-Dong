@@ -15,7 +15,17 @@ I'm a tech undergraduate at Singapore Management University (SMU) actively parti
 - **Temp Finance Executive at Gardens By the Bay** (20 February 2023 - 30 June 2023)
   - Utilized Microsoft Excel for data cleaning and analysis.
   - Collaborated with senior management to investigate and resolve variances in account receivables.
+  - 
+## Hackathons
 
+- **Nomura TRAILBLAZER AI** Challenge 2024 (July 2024)
+  - Secured 2nd place with the project ESGeePeeTee, an ESG analysis tool using real-time news data and advanced ML techniques for robust ESG score predictions.
+    
+- **DSTA BrainHack (TIL-AI) 2024**
+  - Built and trained NLP and ASR models, and developed skills in text data preprocessing and ASR model development.
+
+- **NUS Rightship Hackathon 2024**
+  - Developed a baseline assessment of GHG emissions and evaluated the impact of electrification on emissions reduction using GeoPandas and Pandas.
 
 ## Projects
 
@@ -25,16 +35,9 @@ I'm a tech undergraduate at Singapore Management University (SMU) actively parti
 - **Module Bidding Analysis** (June 2024)
   - Conducted analysis on university module bidding prices using R, revealing key patterns and trends.
 
-- **Personal Budget Automation** (January 2024)
-  - Developed a Python script to automate personal budget analysis using bank transaction data and Google Sheets integration.
 
-## Hackathons
 
-- **DSTA BrainHack (TIL-AI) 2024**
-  - Built and trained NLP and ASR models, and developed skills in text data preprocessing and ASR model development.
 
-- **NUS Rightship Hackathon 2024**
-  - Developed a baseline assessment of GHG emissions and evaluated the impact of electrification on emissions reduction using GeoPandas and Pandas.
 
 
 
