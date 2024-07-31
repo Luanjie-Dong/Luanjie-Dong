@@ -18,8 +18,8 @@ I'm a tech undergraduate at Singapore Management University (SMU) actively parti
   - 
 ## Hackathons
 
-- **Nomura TRAILBLAZER AI** Challenge 2024 (July 2024)
-  - Secured 2nd place with the project ESGeePeeTee, an ESG analysis tool using real-time news data and advanced ML techniques for robust ESG score predictions.
+- **Nomura TRAILBLAZER AI Challenge 2024** (July 2024)
+  - Secured 2nd place out of 100 teams with the project ESGeePeeTee, an ESG analysis tool using real-time news data and advanced ML techniques for robust ESG score predictions.
     
 - **DSTA BrainHack (TIL-AI) 2024**
   - Built and trained NLP and ASR models, and developed skills in text data preprocessing and ASR model development.
