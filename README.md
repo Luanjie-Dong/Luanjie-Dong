@@ -15,7 +15,7 @@ I'm a tech undergraduate at Singapore Management University (SMU) actively parti
 - **Temp Finance Executive at Gardens By the Bay** (20 February 2023 - 30 June 2023)
   - Utilized Microsoft Excel for data cleaning and analysis.
   - Collaborated with senior management to investigate and resolve variances in account receivables.
-  - 
+    
 ## Hackathons
 
 - **Nomura TRAILBLAZER AI Challenge 2024** (July 2024)
