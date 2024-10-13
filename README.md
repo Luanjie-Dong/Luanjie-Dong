@@ -1,48 +1,41 @@
 # Hi there, I'm Dong Luanjie 👋
 
-I'm a tech undergraduate at Singapore Management University (SMU) actively participating in hackathons and personal projects. With experience in data analysis, software development, and artificial intelligence, I am passionate about leveraging technology for innovative solutions.
+I'm a tech undergraduate at Singapore Management University (SMU) actively participating in hackathons and personal projects. With hands-on experience in data analysis, software development, and artificial intelligence, I am passionate about leveraging technology to solve real-world challenges and drive innovation. My work spans data analytics, machine learning, IoT, and cloud computing, with a strong foundation in both academic and professional settings.
 
 ## Skills
 
-- **Programming Languages**: Python, R, SQL, PHP, HTML
-- **Tools & Technologies**: GitHub, Tableau, Jupyter Notebooks, RStudio, Visual Studio, MySQL, BigQuery
-- **Soft Skills**: Problem-solving, Teamwork, Communication, Time management, Presentation
-- **Web Development**: API calls
+- **Programming Languages**: Python, R, SQL, PHP, HTML, JavaScript, CSS
+- **Tools & Technologies**: GitHub, Tableau, Jupyter Notebooks, RStudio, Visual Studio, MySQL, BigQuery, AWS, Docker, WordPress
+- **Soft Skills**: Problem-solving, Teamwork, Communication, Time Management, Critical Thinking, Presentation, Leadership
+- **Web Development**: API calls, Flask, WordPress
+- **Machine Learning**: TensorFlow, Keras, AutoGluon
+- **Data Visualization**: Tableau, ggplot2, Folium, Matplotlib
 
 
-## Experience
+## GitHub Projects
 
-- **Temp Finance Executive at Gardens By the Bay** (20 February 2023 - 30 June 2023)
-  - Utilized Microsoft Excel for data cleaning and analysis.
-  - Collaborated with senior management to investigate and resolve variances in account receivables.
-    
-## Hackathons
+- **GeePeeTee --> Nomura TRAILBLAZER AI Challenge 2024**  
+  *July 2024*  
+  - Secured 2nd place out of 100 teams with the project ESGeePeeTee, an ESG analysis tool using real-time news data and advanced machine learning techniques to predict ESG scores.
 
-- **Nomura TRAILBLAZER AI Challenge 2024** (July 2024)
-  - Secured 2nd place out of 100 teams with the project ESGeePeeTee, an ESG analysis tool using real-time news data and advanced ML techniques for robust ESG score predictions.
-    
-- **DSTA BrainHack (TIL-AI) 2024**
-  - Built and trained NLP and ASR models, and developed skills in text data preprocessing and ASR model development.
+- **CrowdSight --> Ellipsis X HST Tech Series Hackathon 2024**  
+  *September 2024*  
+  - Developed a real-time crowd density analysis system using computer vision and TensorFlow, winning 2nd place.
 
-- **NUS Rightship Hackathon 2024**
-  - Developed a baseline assessment of GHG emissions and evaluated the impact of electrification on emissions reduction using GeoPandas and Pandas.
+- **NUS Rightship Hackathon 2024**  
+  - Analyzed and visualized GHG emissions data using GeoPandas and Pandas, contributing to a baseline assessment of emissions at Pasir Panjang Terminal.
 
-## Projects
+- **Cyclistic Bike-share Analysis Case Study**  
+  *June 2024*  
+  - Cleaned and analyzed 12 months of historical trip data using MySQL to identify bike usage patterns and increase memberships.
+  - Utilized Tableau to develop visualizations and provide strategic recommendations for fleet optimization and seasonal promotions.
 
-- **Cyclistic Bike-share Analysis Case Study** (June 2024)
-  - Cleaned and analyzed historical trip data to understand usage patterns and increase memberships.
+- **Module Bidding Analysis**  
+  *June 2024*  
+  - Conducted a comprehensive analysis of university module bidding prices using R, revealing key trends and patterns through data visualization with ggplot2 and dplyr.
 
-- **Module Bidding Analysis** (June 2024)
-  - Conducted analysis on university module bidding prices using R, revealing key patterns and trends.
+## Education
 
+- **Bachelor of Science in Information Systems**  
+  Singapore Management University (2023 - 2027)
 
-
-
-
-
-
-## Contact
-
-- **Email**: [luanjiechenn@gmail.com](mailto:luanjiechenn@gmail.com) / [luanijedong.2023@scis.smu.edu.sg](mailto:luanijedong.2023@scis.smu.edu.sg)
-- **LinkedIn**: [Dong Luanjie](https://www.linkedin.com/in/dong-luanjie-b8647b232)
-- **GitHub**: [Luanjie-Dong](https://github.com/Luanjie-Dong)
