@@ -16,7 +16,7 @@ I'm a tech undergraduate at Singapore Management University (SMU) actively parti
 
 1. **CrowdSight --> Ellipsis X HST Tech Series Hackathon 2024**  
    *September 2024*  
-   - Developed a real-time crowd density analysis system using computer vision and TensorFlow, winning 2nd place.
+   - Developed a real-time crowd density analysis system with CCTV data using computer vision and TensorFlow, winning 2nd place.
 
 2. **GeePeeTee --> Nomura TRAILBLAZER AI Challenge 2024**  
    *July 2024*  
