@@ -14,26 +14,27 @@ I'm a tech undergraduate at Singapore Management University (SMU) actively parti
 
 ## GitHub Projects
 
-- **GeePeeTee --> Nomura TRAILBLAZER AI Challenge 2024**  
-  *July 2024*  
-  - Secured 2nd place out of 100 teams with the project ESGeePeeTee, an ESG analysis tool using real-time news data and advanced machine learning techniques to predict ESG scores.
+1. **CrowdSight --> Ellipsis X HST Tech Series Hackathon 2024**  
+   *September 2024*  
+   - Developed a real-time crowd density analysis system using computer vision and TensorFlow, winning 2nd place.
 
-- **CrowdSight --> Ellipsis X HST Tech Series Hackathon 2024**  
-  *September 2024*  
-  - Developed a real-time crowd density analysis system using computer vision and TensorFlow, winning 2nd place.
+2. **GeePeeTee --> Nomura TRAILBLAZER AI Challenge 2024**  
+   *July 2024*  
+   - Secured 2nd place out of 100 teams with the project ESGeePeeTee, an ESG analysis tool using real-time news data and advanced machine learning techniques to predict ESG scores.
 
-- **NUS Rightship Hackathon 2024**  
-  - Analyzed and visualized GHG emissions data using GeoPandas and Pandas, contributing to a baseline assessment of emissions at Pasir Panjang Terminal.
+3. **Cyclistic Bike-share Analysis Case Study**  
+   *June 2024*  
+   - Cleaned and analyzed 12 months of historical trip data using MySQL to identify bike usage patterns and increase memberships.
+   - Utilized Tableau to develop visualizations and provide strategic recommendations for fleet optimization and seasonal promotions.
 
-- **Cyclistic Bike-share Analysis Case Study**  
-  *June 2024*  
-  - Cleaned and analyzed 12 months of historical trip data using MySQL to identify bike usage patterns and increase memberships.
-  - Utilized Tableau to develop visualizations and provide strategic recommendations for fleet optimization and seasonal promotions.
+4. **Module Bidding Analysis**  
+   *June 2024*  
+   - Conducted a comprehensive analysis of university module bidding prices using R, revealing key trends and patterns through data visualization with ggplot2 and dplyr.
 
-- **Module Bidding Analysis**  
-  *June 2024*  
-  - Conducted a comprehensive analysis of university module bidding prices using R, revealing key trends and patterns through data visualization with ggplot2 and dplyr.
-
+5. **NUS Rightship Hackathon 2024**  
+   *January 2024*  
+   - Analyzed and visualized GHG emissions data using GeoPandas and Pandas, contributing to a baseline assessment of emissions at Pasir Panjang Terminal.
+   - 
 ## Education
 
 - **Bachelor of Science in Information Systems**  
