@@ -6,26 +6,14 @@
 
 # 🛠️ Technical Skills
 
-## **Programming Languages**
-- Python, R, SQL, PHP, HTML, JavaScript, CSS
-
-## **Tools & Platforms**
-- GitHub, Docker, AWS, MySQL, BigQuery, Jupyter Notebooks, RStudio, WordPress
-
-## **Frontend Development**
-- JavaScript, HTML, CSS, React, Vue
-
-## **Backend Development**
-- Python, PHP, Flask, API Integration
-
-## **Machine Learning & Data Analytics**
-- TensorFlow, Keras, AutoGluon, Scikit-Learn, OpenCV, Pandas, Tableau, ggplot2, Matplotlib, GeoPandas
-
-## **Geospatial & Data Visualization**
-- Urban mobility analysis, GHG emissions visualization, Folium
-
-## **Certifications**
-- Google Data Analytics Professional Certificate
+- **Languages**: Python, R, SQL, PHP, HTML, JavaScript, CSS
+- **Tools**: GitHub, Docker, AWS, MySQL, BigQuery, Jupyter, RStudio, WordPress
+- **Frontend**: JavaScript, React, Vue, HTML, CSS
+- **Backend**: Python, PHP, Flask, API Integration
+- **Machine Learning**: TensorFlow, Keras, AutoGluon, Scikit-Learn, OpenCV, Pandas
+- **Visualization**: Tableau, ggplot2, Matplotlib, GeoPandas, Folium
+- **Specializations**: Urban mobility analysis, GHG emissions visualization
+- **Certifications**: Google Data Analytics Professional Certificate
 
 
 
