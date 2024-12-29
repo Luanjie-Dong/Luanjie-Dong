@@ -12,31 +12,4 @@ I'm a tech undergraduate at Singapore Management University (SMU) actively parti
 - **Data Visualization**: Tableau, ggplot2, Folium, Matplotlib
 
 
-## GitHub Projects
-
-1. **CrowdSight --> Ellipsis X HST Tech Series Hackathon 2024**  
-   *September 2024*  
-   - Developed a real-time crowd density analysis system with live CCTV data using computer vision and TensorFlow, winning 2nd place.
-
-2. **GeePeeTee --> Nomura TRAILBLAZER AI Challenge 2024**  
-   *July 2024*  
-   - Secured 2nd place out of 100 teams with the project ESGeePeeTee, an ESG analysis tool using real-time news data and advanced machine learning techniques to predict ESG scores.
-
-3. **Cyclistic Bike-share Analysis Case Study**  
-   *June 2024*  
-   - Cleaned and analyzed 12 months of historical trip data using MySQL to identify bike usage patterns and increase memberships.
-   - Utilized Tableau to develop visualizations and provide strategic recommendations for fleet optimization and seasonal promotions.
-
-4. **Module Bidding Analysis**  
-   *June 2024*  
-   - Conducted a comprehensive analysis of university module bidding prices using R, revealing key trends and patterns through data visualization with ggplot2 and dplyr.
-
-5. **NUS Rightship Hackathon 2024**  
-   *January 2024*  
-   - Analyzed and visualized GHG emissions data using GeoPandas and Pandas, contributing to a baseline assessment of emissions at Pasir Panjang Terminal.
-   - 
-## Education
-
-- **Bachelor of Science in Information Systems**  
-  Singapore Management University (2023 - 2027)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanjie-Dong&theme=default)
