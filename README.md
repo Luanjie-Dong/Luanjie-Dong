@@ -1,7 +1,18 @@
 # Hi there, I'm Dong Luanjie 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanjie-Dong&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luanjie-Dong&theme=default)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanjie-Dong&theme=default" 
+    alt="Profile Details" 
+    style="flex: 1 1 calc(50% - 1rem); max-width: 100%; height: auto;" />
+
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luanjie-Dong&theme=default" 
+    alt="Stats" 
+    style="flex: 1 1 calc(50% - 1rem); max-width: 100%; height: auto;" />
+
+</div>
 
 ## Skills
 
