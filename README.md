@@ -1,42 +1,58 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanjie-Dong&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luanjie-Dong&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luanjie-Dong&theme=default)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanjie-Dong&theme=default" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luanjie-Dong&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luanjie-Dong&theme=default" />
+</div>
 
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-- **Languages**: Python, R, SQL, PHP, HTML, JavaScript, CSS
-- **Tools**: GitHub, Docker, AWS, MySQL, BigQuery, Jupyter, RStudio, WordPress
-- **Frontend**: JavaScript, React, Vue, HTML, CSS
-- **Backend**: Python, PHP, Flask, API Integration
-- **Machine Learning**: TensorFlow, Keras, AutoGluon, Scikit-Learn, OpenCV, Pandas
-- **Visualization**: Tableau, ggplot2, Matplotlib, GeoPandas, Folium
-- **Specializations**: Urban mobility analysis, GHG emissions visualization
-- **Certifications**: Google Data Analytics Professional Certificate
+| Category             | Technologies & Tools |
+|----------------------|------------------------|
+| **Languages**        | Python, R, SQL, JavaScript, PHP, HTML, CSS |
+| **Frontend**         | React, Vue.js, Next.js, HTML/CSS, JavaScript |
+| **Backend**          | Flask, REST APIs, gRPC, AMQP, Kong API Gateway |
+| **Databases**        | MySQL, BigQuery, GeoPandas |
+| **DevOps & Cloud**   | GitHub, Docker, AWS |
+| **ML & AI**          | TensorFlow, Keras, Scikit-Learn, OpenCV, AutoGluon, LLMs (RAG, LlamaIndex) |
+| **Data Visualization** | Tableau, Matplotlib, ggplot2, Folium, GeoPandas |
+| **Tools & Platforms**| Jupyter, RStudio, WordPress, Web Scraping |
 
-  ### 🏷️  AI/Machine Learning
-| Project | Summary |
-|--------|---------|
-| [StudyGuru](https://github.com/Luanjie-Dong/StudyGuru) | StudyGuru is an AI-powered educational platform leveraging LLMs and RAG techniques (likely via LlamaIndex) to provide personalized learning experiences. |
-| [CrowdSight](https://github.com/Luanjie-Dong/CrowdSight) | CrowdSight is a real-time crowd density visualization dashboard built using Next.js and Python computer vision, designed for efficient event crowd management. |
-| [NUS-RightShip-2025-Hackathon](https://github.com/Luanjie-Dong/NUS-RightShip-2025-Hackathon) | This project uses generative AI and AutoML within a Python Jupyter Notebook framework to create a more objective Port State Control severity scoring system for improved maritime safety. |
-| [GeePeeTee](https://github.com/Luanjie-Dong/GeePeeTee) | GeePeeTee is a machine learning-powered ESG score analyzer built with Next.js and web scraping capabilities. |
+ ## 🚀 Featured Projects
 
-### 🏷️  Full Stack
-| Project | Summary |
-|--------|---------|
-| [ESD-Weather-Wonder](https://github.com/Luanjie-Dong/ESD-Weather-Wonder) | ESD-Weather-Wonder is a microservices-based application built with TypeScript and Python, using AMQP, gRPC, and Kong API Gateway, that delivers weather forecasts, emergency alerts, and notifications. |
+### 🏷️ AI & Machine Learning
 
-### 🏷️  Backend Development
-| Project | Summary |
-|--------|---------|
-| [budgetly](https://github.com/Luanjie-Dong/budgetly) | Budgetly is a personal finance management application with a Flask-based REST API and a Next.js frontend providing CRUD operations, transaction filtering, and data visualization. |
+| Project | Description |
+|--------|-------------|
+| [**StudyGuru**](https://github.com/Luanjie-Dong/StudyGuru) | An AI-powered educational platform using LLMs and RAG (via LlamaIndex) to deliver personalized learning experiences. |
+| [**CrowdSight**](https://github.com/Luanjie-Dong/CrowdSight) | A real-time crowd density dashboard using computer vision (Python) and Next.js for event crowd management. |
+| [**NUS-RightShip-2025-Hackathon**](https://github.com/Luanjie-Dong/NUS-RightShip-2025-Hackathon) | Leveraged generative AI and AutoML in Python to build an objective Port State Control severity scoring system for maritime safety. |
+| [**GeePeeTee**](https://github.com/Luanjie-Dong/GeePeeTee) | ML-driven ESG score analyzer using web scraping and Next.js for sustainable investment insights. |
 
-### 🏷️  Data Science
-| Project | Summary |
-|--------|---------|
-| [Cyclistic-Analytics-Google-Capstone-Project](https://github.com/Luanjie-Dong/Cyclistic-Analytics-Google-Capstone-Project) | This project analyzes Cyclistic bike-share data using SQL and Tableau to identify strategies for increasing annual memberships by converting casual riders. |
-| [Bidding-Analysis](https://github.com/Luanjie-Dong/Bidding-Analysis) | This project analyzes bidding patterns for COR1305 over three years using R, identifying trends in bid prices by instructor and section through visualizations. |
+---
 
+### 🏷️ Full Stack Development
 
+| Project | Description |
+|--------|-------------|
+| [**ESD-Weather-Wonder**](https://github.com/Luanjie-Dong/ESD-Weather-Wonder) | Microservices-based weather app using TypeScript, Python, AMQP, gRPC, and Kong API Gateway. Delivers forecasts, alerts, and notifications. |
 
+---
 
+### 🏷️ Backend Development
+
+| Project | Description |
+|--------|-------------|
+| [**budgetly**](https://github.com/Luanjie-Dong/budgetly) | Personal finance app with a Flask REST API and Next.js frontend. Supports CRUD operations, filtering, and data visualization. |
+
+---
+
+### 🏷️ Data Science & Analytics
+
+| Project | Description |
+|--------|-------------|
+| [**Cyclistic Analytics (Google Capstone)**](https://github.com/Luanjie-Dong/Cyclistic-Analytics-Google-Capstone-Project) | Analyzed bike-share data using SQL and Tableau to identify strategies for converting casual riders into annual members. |
+| [**Bidding Analysis for COR1305**](https://github.com/Luanjie-Dong/Bidding-Analysis) | Examined 3 years of bidding data in R to uncover trends in bid prices by instructor and section through statistical analysis and visualizations. |
+
+---
