@@ -30,7 +30,7 @@ I'm eager to continue learning, collaborate with talented teams, and contribute 
 | [**CrowdSight**](https://github.com/Luanjie-Dong/CrowdSight) | A real-time crowd density dashboard using CNN computer vision model (Python) and Next.js for event crowd management. |
 | [**NUS-RightShip-2025-Hackathon**](https://github.com/Luanjie-Dong/NUS-RightShip-2025-Hackathon) | Leveraged generative AI and AutoML in Python to build an objective Port State Control severity scoring system for maritime safety. |
 | [**GeePeeTee**](https://github.com/Luanjie-Dong/GeePeeTee) | ML-driven ESG score analyzer using web scraping and Next.js for sustainable investment insights. |
-| [**AI-Machine-Learning-Implementations**](https://github.com/Luanjie-Dong/StudyGuru) | AI/Machine Learning implementation practice and record - more to come: Bayesian Network, Computer Vision, NLP, Heuristic Search, Reinforcement Learning |
+| [**AI-Machine-Learning-Implementations**](https://github.com/Luanjie-Dong/AI-Machine-Learning-Implementations) | AI/Machine Learning implementation practice and record - more to come: Bayesian Network, Computer Vision, NLP, Heuristic Search, Reinforcement Learning |
 
 ---
 
