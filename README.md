@@ -15,11 +15,10 @@ I'm eager to continue learning, collaborate with talented teams, and contribute 
 | **Languages**        | Python, R, SQL, JavaScript, PHP, HTML, CSS |
 | **Frontend**         | React, Vue.js, Next.js, HTML/CSS, JavaScript |
 | **Backend**          | Flask, REST APIs, gRPC, AMQP, Kong API Gateway |
-| **Databases**        | MySQL, BigQuery, GeoPandas |
-| **DevOps & Cloud**   | GitHub, Docker, AWS |
-| **ML & AI**          | TensorFlow, Keras, Scikit-Learn, OpenCV, AutoGluon, LLMs (RAG, LlamaIndex) |
-| **Data Visualization** | Tableau, Matplotlib, ggplot2, Folium, GeoPandas |
-| **Tools & Platforms**| Jupyter, RStudio, WordPress, Web Scraping |
+| **Databases**        | MySQL, SupaBase, MongoDB |
+| **DevOps & Cloud**   | GitHub, Docker, AWS, Azure, MLflow |
+| **ML & AI**          | Pytorch, TensorFlow, Scikit-Learn, Pandas, Polars, NumPy, NLP, OpenCV, AutoGluon, LLMs (RAG, LlamaIndex) , Supervised/Unsupervised Learning, Deep Learning|
+| **Data Visualization** | Tableau, RStudio, Streamlit, Matplotlib |
 
  ## 🚀 Public Projects
 
