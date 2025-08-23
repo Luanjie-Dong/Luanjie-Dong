@@ -21,7 +21,7 @@ I'm eager to continue learning, collaborate with talented teams, and contribute 
 | **Data Visualization** | Tableau, Matplotlib, ggplot2, Folium, GeoPandas |
 | **Tools & Platforms**| Jupyter, RStudio, WordPress, Web Scraping |
 
- ## 🚀 Featured Projects
+ ## 🚀 Public Projects
 
 ### 🏷️ AI & Machine Learning
 
@@ -58,3 +58,4 @@ I'm eager to continue learning, collaborate with talented teams, and contribute 
 | [**Bidding Analysis for COR1305**](https://github.com/Luanjie-Dong/Bidding-Analysis) | Examined 3 years of bidding data in R to uncover trends in bid prices by instructor and section through statistical analysis and visualizations. |
 
 ---
+
