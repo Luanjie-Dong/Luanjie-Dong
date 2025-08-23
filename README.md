@@ -24,7 +24,6 @@
 ### 🏷️  Full Stack
 | Project | Summary |
 |--------|---------|
-
 | [ESD-Weather-Wonder](https://github.com/Luanjie-Dong/ESD-Weather-Wonder) | ESD-Weather-Wonder is a microservices-based application built with TypeScript and Python, using AMQP, gRPC, and Kong API Gateway, that delivers weather forecasts, emergency alerts, and notifications. |
 
 ### 🏷️  Backend Development
