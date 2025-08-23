@@ -23,7 +23,7 @@ I'm eager to continue learning, collaborate with talented teams, and contribute 
 
  ## 🚀 Public Projects
 
-### 🏷️ AI & Machine Learning
+### 🤖  AI & Machine Learning
 
 | Project | Description |
 |--------|-------------|
@@ -34,7 +34,7 @@ I'm eager to continue learning, collaborate with talented teams, and contribute 
 
 ---
 
-### 🏷️ Full Stack Development
+### 💻  Full Stack Development
 
 | Project | Description |
 |--------|-------------|
@@ -42,7 +42,7 @@ I'm eager to continue learning, collaborate with talented teams, and contribute 
 
 ---
 
-### 🏷️ Backend Development
+### ⚙️  Backend Development
 
 | Project | Description |
 |--------|-------------|
@@ -50,7 +50,7 @@ I'm eager to continue learning, collaborate with talented teams, and contribute 
 
 ---
 
-### 🏷️ Data Science & Analytics
+### 📊  Data Science & Analytics
 
 | Project | Description |
 |--------|-------------|
