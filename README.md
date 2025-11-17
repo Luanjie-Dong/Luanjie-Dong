@@ -12,50 +12,11 @@ I'm eager to continue learning, collaborate with talented teams, and contribute 
 
 | Category             | Technologies & Tools |
 |----------------------|------------------------|
-| **Languages**        | Python, R, SQL, JavaScript, PHP, HTML, CSS |
+| **Languages**        | Python, Java, R, SQL, JavaScript, PHP, HTML, CSS |
 | **Frontend**         | React, Vue.js, Next.js, HTML/CSS, JavaScript |
 | **Backend**          | Flask, REST APIs, gRPC, AMQP, Kong API Gateway |
 | **Databases**        | MySQL, SupaBase, MongoDB |
 | **DevOps & Cloud**   | GitHub, Docker, AWS, Azure, MLflow |
 | **ML & AI**          | Pytorch, TensorFlow, Scikit-Learn, Pandas, Polars, NumPy, NLP, OpenCV, AutoGluon, LLMs (RAG, LlamaIndex) , Supervised/Unsupervised Learning, Deep Learning|
 | **Data Visualization** | Tableau, RStudio, Streamlit, Matplotlib |
-
- ## 🚀 Public Projects
-
-### 🤖  AI & Machine Learning
-
-| Project | Description |
-|--------|-------------|
-| [**StudyGuru**](https://github.com/Luanjie-Dong/StudyGuru) | An AI-powered educational platform using LLMs and RAG (via LlamaIndex) to deliver personalized learning experiences. |
-| [**CrowdSight**](https://github.com/Luanjie-Dong/CrowdSight) | A real-time crowd density dashboard using CNN computer vision model (Python) and Next.js for event crowd management. |
-| [**NUS-RightShip-2025-Hackathon**](https://github.com/Luanjie-Dong/NUS-RightShip-2025-Hackathon) | Leveraged generative AI and AutoML in Python to build an objective Port State Control severity scoring system for maritime safety. |
-| [**GeePeeTee**](https://github.com/Luanjie-Dong/GeePeeTee) | ML-driven ESG score analyzer using web scraping and Next.js for sustainable investment insights. |
-| [**AI-Machine-Learning-Implementations**](https://github.com/Luanjie-Dong/AI-Machine-Learning-Implementations) | AI/Machine Learning implementation practice and record - more to come: Bayesian Network, Computer Vision, NLP, Heuristic Search, Reinforcement Learning |
-
----
-
-### 💻  Full Stack Development
-
-| Project | Description |
-|--------|-------------|
-| [**ESD-Weather-Wonder**](https://github.com/Luanjie-Dong/ESD-Weather-Wonder) | Microservices-based weather app using TypeScript, Python, AMQP, gRPC, and Kong API Gateway. Delivers forecasts, alerts, and notifications. |
-
----
-
-### ⚙️  Backend Development
-
-| Project | Description |
-|--------|-------------|
-| [**budgetly**](https://github.com/Luanjie-Dong/budgetly) | Personal finance app with a Flask REST API and Next.js frontend. Supports CRUD operations, filtering, and data visualization. |
-
----
-
-### 📊  Data Science & Analytics
-
-| Project | Description |
-|--------|-------------|
-| [**Cyclistic Analytics (Google Capstone)**](https://github.com/Luanjie-Dong/Cyclistic-Analytics-Google-Capstone-Project) | Analyzed bike-share data using SQL and Tableau to identify strategies for converting casual riders into annual members. |
-| [**Bidding Analysis for COR1305**](https://github.com/Luanjie-Dong/Bidding-Analysis) | Examined 3 years of bidding data in R to uncover trends in bid prices by instructor and section through statistical analysis and visualizations. |
-
----
 
