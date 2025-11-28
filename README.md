@@ -26,7 +26,7 @@ Name | Summary | Link
 ------|---------|---|
 AI & Machine Learning Implementations | A repository of hands-on AI/ML algorithm implementations and experimentation.| [code](https://github.com/Luanjie-Dong/AI-ML-Implementations) |
 CrowdSight | A system developed for the Ellipsis X HST Tech Series Hackathon 2024 that enables event organizers to model event locations and visualize crowd density using CCTV footage, providing a real-time dashboard with a crowd density heatmap around key exit routes. | [code](https://github.com/Luanjie-Dong/CrowdSight) | 
-Planty! | A full-stack web application designed to support plant owners in tracking their plants' needs, diagnosing health issues, and maintaining motivation through gamified elements. | Still private for now |
+Planty! | A full-stack web application designed to support plant owners in tracking their plants' needs, diagnosing health issues, and maintaining motivation through gamified elements. | [code](https://github.com/Luanjie-Dong/wad2-planty) |
 Weather Wonder | A microservices-based application designed to provide weather forecasts, emergency monitoring, and timely notifications. | [code](https://github.com/Luanjie-Dong/ESD-Weather-Wonder) |
 StudyGURU | An AI-powered educational platform designed to democratize access to personalized education by leveraging Generative AI & RAG to provide adaptive learning experiences. | [code](https://github.com/Luanjie-Dong/StudyGuru) |
 Maritime Hackathon 2025: Reducing Subjectivity in PSC Severity Scores with AI | Focused on reducing subjectivity in classification of severity level of Port State Control (PSC) ship inspections using Generative AI (GenAI) and AutoML. | [code](https://github.com/Luanjie-Dong/NUS-RightShip-2025-Hackathon) |
