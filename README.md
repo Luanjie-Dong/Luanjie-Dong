@@ -1,6 +1,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanjie-Dong&theme=default)
 
-## About Me
+## About Me!
 
 As an aspiring **Machine Learning and Software Engineer**, I work on and build applications that transform data into actionable insights. 
 My work spans AI-powered platforms like [StudyGuru](https://github.com/Luanjie-Dong/StudyGuru) and real-time dashboards like [CrowdSight](https://github.com/Luanjie-Dong/CrowdSight), blending data science, cloud tools (AWS, Docker), and modern frameworks (React, Next.js) to solve real-world problems
