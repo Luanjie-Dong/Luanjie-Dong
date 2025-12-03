@@ -23,11 +23,12 @@ I'm eager to continue learning, collaborate with talented teams, and contribute 
 
 Name | Category | Summary | Link
 ------|------| ---------|---|
+VLM Fashion Attribute Extractor | VLM , LoRA | A vision‑language system that fine‑tunes PaliGemma to extract detailed fashion attributes from images, exposing a Gradio UI and supporting semantic search. | [code](https://github.com/Luanjie-Dong/fashion-vlm) |
 AI & Machine Learning Implementations| Machine Learning | A repository of hands-on AI/ML algorithm implementations and experimentation.| [code](https://github.com/Luanjie-Dong/AI-ML-Implementations) |
 CrowdSight | Computer Vision & Frontend | A system developed for the Ellipsis X HST Tech Series Hackathon 2024 that enables event organizers to model event locations and visualize crowd density using CCTV footage, providing a real-time dashboard with a crowd density heatmap around key exit routes. | [code](https://github.com/Luanjie-Dong/CrowdSight) | 
 Planty! | Full-stack| A full-stack web application designed to support plant owners in tracking their plants' needs, diagnosing health issues, and maintaining motivation through gamified elements. | [code](https://github.com/Luanjie-Dong/wad2-planty) |
 Weather Wonder| Full-stack & Microservices | A microservices-based application designed to provide weather forecasts, emergency monitoring, and timely notifications. | [code](https://github.com/Luanjie-Dong/ESD-Weather-Wonder) |
 StudyGURU | RAG & LLM | An AI-powered educational platform designed to democratize access to personalized education by leveraging Generative AI & RAG to provide adaptive learning experiences. | [code](https://github.com/Luanjie-Dong/StudyGuru) |
-Maritime Hackathon 2025: Reducing Subjectivity in PSC Severity Scores with AI | LLM & Classification Model| Focused on reducing subjectivity in classification of severity level of Port State Control (PSC) ship inspections using Generative AI (GenAI) and AutoML. | [code](https://github.com/Luanjie-Dong/NUS-RightShip-2025-Hackathon) |
+Maritime Hackathon 2025: Reducing Subjectivity in PSC Severity Scores with AI | LLM & Classification Model| Focused on reducing subjectivity in the classification of the severity level of Port State Control (PSC) ship inspections using Generative AI (GenAI) and AutoML. | [code](https://github.com/Luanjie-Dong/NUS-RightShip-2025-Hackathon) |
 ESGeePeeTee | Regression Model | An advanced ESG analysis platform integrating real-time news data from GDELT with AutoGluon for unbiased and accurate ESG score predictions. | [code](https://github.com/Luanjie-Dong/GeePeeTee) |
  
