@@ -2,7 +2,7 @@
 
 ## About Me!
 
-As an aspiring **Machine Learning and Software Engineer**, I work on and build applications that transform data into actionable insights. 
+As an aspiring **Machine Learning/Software Engineer**, I work on and build applications that transform data into actionable insights. 
 My work spans AI-powered platforms like [StudyGuru](https://github.com/Luanjie-Dong/StudyGuru) and real-time dashboards like [CrowdSight](https://github.com/Luanjie-Dong/CrowdSight), blending data science, cloud tools (AWS, Docker), and modern frameworks (React, Next.js) to solve real-world problems
 
 I'm eager to continue learning, collaborate with talented teams, and contribute my skills and passion to meaningful teams and projects!! 
