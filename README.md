@@ -16,14 +16,14 @@ I'm eager to continue learning, collaborate with talented teams, and contribute 
 | **Backend**          | Flask, REST APIs, gRPC, AMQP, Kong API Gateway |
 | **Databases**        | MySQL, SupaBase, MongoDB |
 | **DevOps & Cloud**   | GitHub, Docker, AWS, Azure, MLflow |
-| **ML & AI**          | Pytorch, TensorFlow, Scikit-Learn, Pandas, Polars, NumPy, NLP, OpenCV, AutoGluon, LLMs (RAG, LlamaIndex) , Supervised/Unsupervised Learning, Deep Learning|
+| **ML & AI**          | Pytorch, TensorFlow, Scikit-Learn, Pandas, Polars, NumPy, NLP, OpenCV, AutoGluon, LLMs (RAG, LlamaIndex) , Supervised/Unsupervised Learning, Deep Learning, VLMs|
 | **Data Visualization** | Tableau, RStudio, Streamlit, Matplotlib |
 
 ## Projects!
 
 Name | Category | Topics | Summary | Link
 ------|------|------| ---------|---|
-VLM Fashion Attribute Extractor | Personal Project |  VLM , LoRA | A VLM project that fine‑tunes PaliGemma to extract detailed fashion attributes from images, exposing a Gradio UI and supporting semantic search. | [code](https://github.com/Luanjie-Dong/fashion-vlm) |
+Fashion VLM | Personal Project |  VLM , LoRA | A VLM project that fine‑tunes PaliGemma to extract detailed fashion attributes from images, exposing a Gradio UI and supporting semantic search. | [code](https://github.com/Luanjie-Dong/fashion-vlm) |
 AI & Machine Learning Implementations| Personal Project | Machine Learning | A repository of hands-on AI/ML algorithm implementations and experimentation.| [code](https://github.com/Luanjie-Dong/AI-ML-Implementations) |
 StudyGURU | NUS – Guru Network AI Innovation Challenge 2025 | RAG & LLM | An AI-powered educational platform designed to democratize access to personalized education by leveraging Generative AI & RAG to provide adaptive learning experiences. | [code](https://github.com/Luanjie-Dong/StudyGuru) |
 Planty! | School Project |  Full-stack| A full-stack web application designed to support plant owners in tracking their plants' needs, diagnosing health issues, and maintaining motivation through gamified elements. | [code](https://github.com/Luanjie-Dong/wad2-planty) |
